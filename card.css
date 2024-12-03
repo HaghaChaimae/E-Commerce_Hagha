@@ -1,0 +1,33 @@
+
+.card {
+    background: #fff;
+    border-radius: 10px;
+    width: 290px;
+    margin: 6px;
+    border: 5px solid #fff;
+    box-shadow: 15px 10px 15px rgba(0,0,0, 0.8);
+    scale: 0.8;
+    background-image: none;
+    text-align: center;
+    justify-content: center;
+}
+
+.card  .prixPromo{
+    font-weight: 400;
+}
+.card h3{
+    color: blue;
+}
+.card h6{
+    color: rgb(95, 95, 238);
+}
+.card h5{
+    color: red;
+}
+.card h4{
+    color: green;
+}
+.pag{
+  
+    justify-content: center;
+  }

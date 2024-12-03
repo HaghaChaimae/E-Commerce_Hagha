@@ -1,0 +1,30 @@
+#qty{
+    width: 5rem;
+}
+
+.counter{
+    width: 50%;
+    margin: 0 auto;
+}
+.ca{
+    width: 100%;
+}
+
+.card  img :hover{
+    scale: 0.9;
+}
+.card  .prixPromo{
+    font-weight: 400;
+}
+.card h3{
+    color: blue;
+}
+.card h6{
+    color: rgb(95, 95, 238);
+}
+.card h5{
+    color: red;
+}
+.card h4{
+    color: green;
+}
